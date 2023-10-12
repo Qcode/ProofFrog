@@ -1,4 +1,4 @@
-# ProofFrog
+ # ProofFrog
 A work in progress
 
 ## Installation:
